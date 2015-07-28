@@ -1,6 +1,6 @@
 # Content Mixer WordPress Example
 
-## Why isn't this a plugin?
+### Why isn't this a plugin?
 
 There isn't a one-size-fits-all solution here, and this repository is intended to be merely an example of the techniques necessary for content mixing. Please remix this code yourself!
 
