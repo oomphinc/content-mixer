@@ -1,0 +1,7 @@
+/**
+ * CSS required for the content mixer. Not much!
+ */
+.mixer-item-hidden {
+	visibility: hidden;
+}
+
